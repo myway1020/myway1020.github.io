@@ -6,7 +6,7 @@ categories:
   - Blog
 tags:
   - Blog
-last_modified_at: 2020-01-17T24:20:00-50:00
+last_modified_at: 2020-01-17T24
 ---
 
 ```jsp

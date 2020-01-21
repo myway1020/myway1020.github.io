@@ -10,7 +10,7 @@ react:
   title: Material Bliss
   name: Andrew Plaza
   menu_right_subtitle: Blogger || Computer Scientist
-  avatar: http://api.adorable.io/avatar/aplaza@liquidthink.net
+  avatar: ""
   logo: static/img/logo_theme.jpg
   email: myway1020@gmail.com
   description: > # this means to ignore newlines until "baseurl:"

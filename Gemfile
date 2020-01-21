@@ -1,15 +1,5 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
+gem "github-pages", group: :jekyll_plugins
 
-group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-paginate'
-  gem 'jekyll-gist'
-  gem 'jekyll-assets', '~> 2.3.2'
-  gem 'jekyll-watch'
-  gem 'jekyll_pages_api', :git => "https://github.com/18F/jekyll_pages_api"
-  gem 'jekyll-react'
-  gem 'uglifier'
-  gem 'sass'
-  gem 'kramdown'
-  gem 'rouge'
-end
+gem "jekyll", "~> 3.5"
+gem "minimal-mistakes-jekyll"
